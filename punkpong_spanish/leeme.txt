@@ -1,0 +1,8 @@
+  PunkPong
+ ----------> por Joan Alba Maldonado (100% DHTML). 
+             granvino@granvino.com
+
+  Prohibido publicar, reproducir o modificar sin citar expresamente al autor original.
+
+  Fecha aproximada: 20 de Febrero de 2006 (retoques mas alla del 6 de agosto de 2006).
+  Dedicado a Yasmina Llaveria del Castillo.
