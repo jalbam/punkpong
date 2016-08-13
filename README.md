@@ -1,10 +1,11 @@
-PunkPong
-========= by Joan Alba Maldonado (granvino@granvino.com)
+PunkPong 
+========= 
+by Joan Alba Maldonado (joanalbamaldonadoNO_SPAM_PLEASE AT gmail DOT com, without NO_SPAM_PLEASE)
 
 Pong alike game totally written in DHTML.
 
-Version: 0.26a
-Date: 20th February 2006 (approximately).
+Version: 0.26a 
+- Date: 20th February 2006 (approximately).
 
 You can donate at http://sourceforge.net/donate/index.php?group_id=173646
 
