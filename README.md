@@ -10,6 +10,9 @@ Version: 0.26a
 You can donate at http://sourceforge.net/donate/index.php?group_id=173646
 
 
+![ScreenShot](screenshot.gif)
+
+
 Description
 
 Open source Pong clone totally written in DHTML (HTML, CSS and JavaScript).
