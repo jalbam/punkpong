@@ -13,7 +13,7 @@ You can donate at http://sourceforge.net/donate/index.php?group_id=173646
 ![ScreenShot](screenshot.gif)
 
 
-Description
+## Description
 
 Open source Pong clone totally written in DHTML (HTML, CSS and JavaScript).
 
@@ -33,5 +33,12 @@ You can find other modified and adapted versions of this game on the Internet, i
 
 This game has been tested under BeOS, Linux, NetBSD, OpenBSD, FreeBSD, Windows, Mac OS X, BlackBerry Tablet OS, Android, iOS and others.
 
+Play online in English: http://punkpong.tuxfamily.org/punkpong_english/
+
+Play online in English (mirror): http://www.dhtmlgames.com/punkpong/punkpong_english/
+
+Play online in Spanish: http://punkpong.tuxfamily.org/punkpong_spanish/
+
+Play online in Spanish (mirror): http://www.dhtmlgames.com/punkpong/punkpong_spanish/
 
 Official web site: http://punkpong.tuxfamily.org/ (mirror at http://www.dhtmlgames.com/punkpong/).
