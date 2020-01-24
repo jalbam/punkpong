@@ -1,0 +1,14 @@
+* al incrementar las X en cada rebote, poenr un tope (ver donde peta y traspasa la paleta y probar)
+
+* comentar bien el codigo.
+
+* probar errores en consolas y en explorer, al jugar muuuuuucho tiempo. (algo con el getelementbyid del estado???)
+* buscar bugs.
+
+* probar a hacerlo multijugador.
+
+* poner musica y fx.
+
+//* poner en visible el input text de desenfokar, hacerle un fokus, i luego volverlo a poner hidden. probar si no da error. es para k kuando se elija poner teklado o raton i pulses las flechas no kambie de opcion otra vez.
+
+//* poder alternar el kontrol: raton o teclado.
